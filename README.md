@@ -1,8 +1,11 @@
-# JacobJ-CS-3980
+### JacobJ-CS-3980
 Coding Projects for my Topics in Computer Science course at the University of Iowa
 
-# Echo.py
-# Jacob Johnsen
+# Images:
+
+
+# RAW CODE:
+## Echo.py
 
 def echo(text: str, repetitions: int = 3) -> str:
     "immitate a real world echo."
@@ -21,7 +24,6 @@ from functools import lru_cache, wraps
 from time import perf_counter
 from typing import Callable, Dict, Any
 
-# Store timing results: key = n, value = seconds
 TIMES: Dict[int, float] = {}
 
 
