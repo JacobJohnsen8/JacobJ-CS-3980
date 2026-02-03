@@ -2,6 +2,14 @@
 Coding Projects for my Topics in Computer Science course at the University of Iowa
 
 # Images:
+## Echo.py
+<img width="670" height="459" alt="image" src="https://github.com/user-attachments/assets/b3ed7c0f-7500-4339-aaac-3875912da9c4" />
+## Fib.py
+<img width="769" height="397" alt="image" src="https://github.com/user-attachments/assets/4e8bd109-1b78-45ba-bcb1-bfd7b861d8a4" />
+<img width="773" height="367" alt="image" src="https://github.com/user-attachments/assets/8466fe99-33c6-4192-b1a3-2886572170b4" />
+<img width="768" height="254" alt="image" src="https://github.com/user-attachments/assets/7cde9c02-39d7-482f-83a5-16a81faf4702" />
+## Fib times graph
+<img width="596" height="469" alt="image" src="https://github.com/user-attachments/assets/7488ff68-071d-47c8-bcb3-9f6b4dc6375c" />
 
 
 # RAW CODE:
